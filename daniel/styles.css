@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+
+*::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #4e3400;
+}
+
+h2, h3 {
+    font-weight: bolder;
+}
+
+h2, h3, p {
+    text-align: center;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+div {
+    width: 100vw;
+    margin-bottom: 10px;
+    padding: 50px 0;
+}
+
+p {
+    font-size: 2rem;
+    margin: 10px 0;
+}
+
+.primary-box {
+    background-color: #272727;
+    color: #ededee;
+}
+
+.secondary-box {
+    background-color: #ededee;
+    color: #272727;
+}
+
+.inside-box {
+    background-color: #90eeff;
+    color: #565656;
+    margin: 50px 0;
+}
