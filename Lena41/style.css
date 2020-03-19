@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    padding-top: 15px;
+}
+
+.primary-box {
+    background-color: rgb(54, 49, 49);
+    color: white;
+    border-bottom: 18px solid rgb(116, 56, 22);
+    padding-bottom: 0px;
+}
+
+.secondary-box {
+    border-bottom: 18px solid rgb(116, 56, 22);
+}
+
+.inside-box {
+    background-color: aquamarine;
+    color: rgb(80, 65, 65);
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.smt_padding {
+    padding-bottom: 20px;
+}
