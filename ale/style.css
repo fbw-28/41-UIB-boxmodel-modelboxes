@@ -1,0 +1,29 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    width: 300px;
+    text-align: center;
+}
+
+
+
+.primary-box{
+    background-color: grey;
+    height: 210px;
+    padding: 2px;
+    
+}
+
+.secondary-box{
+    background-color: salmon;
+    height: 230px;
+    padding: 2px;
+    border-top:solid brown 5px;
+    border-bottom: solid brown 5px;
+}
+
+.inside-box{
+    background-color: aquamarine;
+    box-sizing: border-box;
+
+}
+
