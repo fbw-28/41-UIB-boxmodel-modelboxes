@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: brown;
+    text-align: center;
+    font-size: 25px;
+}
+
+  .primary-box {
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+  }  
+
+  .inside-box{
+      background-color: aqua;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      color: grey;
+      }
+
+    .secondary-box {
+        background-color: white;
+        color: black;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        margin-bottom: 10px;
+    }
