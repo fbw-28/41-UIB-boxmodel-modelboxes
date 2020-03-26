@@ -1,0 +1,37 @@
+* {
+    text-align: center;
+    width: 450px;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px; 
+}
+
+
+p {
+    padding-bottom: 10px
+}
+
+h3 {
+    padding-top: 7px;
+}
+
+.primary-box {
+    font-size:  25px;
+    background-color: rgb(70, 67, 67);
+    color: white;
+    padding: 10px 0 10px 0 ;
+}
+
+.inside-box {
+    background-color: aquamarine;
+    color: black;
+    padding: 3px;
+    border-bottom: solid 30px white;
+}
+
+.secondary-box {
+    font-size:  25px;
+    border-top: saddlebrown solid 10px;
+    border-bottom: saddlebrown solid 10px;
+    padding-top: 10px;
+}
