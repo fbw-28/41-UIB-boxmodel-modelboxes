@@ -1,29 +1,31 @@
 *{
-    font-family: 'Courier New', Courier, monospace;
+    /* margin: 0;
+    padding: 0; */
     width: 300px;
     text-align: center;
-}
-
-
-
-.primary-box{
-    background-color: grey;
-    height: 210px;
-    padding: 2px;
-    
-}
-
-.secondary-box{
-    background-color: salmon;
-    height: 230px;
-    padding: 2px;
-    border-top:solid brown 5px;
-    border-bottom: solid brown 5px;
-}
-
-.inside-box{
-    background-color: aquamarine;
-    box-sizing: border-box;
-
-}
-
+ }
+ 
+ 
+ 
+ .primary-box{
+     background-color: #272727;
+     height: 210px;
+     padding: 2px;
+     color: white;
+     
+ }
+ 
+ .secondary-box{
+     height: 230px;
+     padding: 2px;
+     background-color: white;
+     border-top: 10px solid #6d3f30;
+     border-bottom: 10px solid #6d3f30;
+ }
+ 
+ .inside-box{
+     color: #506d80;
+     background-color: rgb(133, 238, 255);
+     box-sizing: border-box;
+ 
+ }
