@@ -1,0 +1,35 @@
+
+
+body {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    background-color: rgba(59, 20, 20, 0.89);
+}
+
+
+.primary-box {
+    padding-top:10px;
+    padding-bottom: 10px;
+    color:white;
+    margin-bottom: 20px;
+    background-color: rgb(43, 38, 38);
+}
+
+.inside-box { 
+    color:grey;
+    background-color: grey;
+    background: aqua;
+    margin-bottom: 20px;
+}
+
+.secondary-box {
+    padding-top:10px;
+    padding-bottom: 10px;
+    color:black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+    margin-bottom: 20px;
+}
