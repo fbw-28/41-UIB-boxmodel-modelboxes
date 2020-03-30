@@ -1,0 +1,31 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    width: 300px;
+    text-align: center;
+ }
+ 
+ 
+ 
+ .primary-box{
+     background-color: #272727;
+     height: 210px;
+     padding: 2px;
+     color: white;
+     
+ }
+ 
+ .secondary-box{
+     height: 230px;
+     padding: 2px;
+     background-color: white;
+     border-top: 10px solid #6d3f30;
+     border-bottom: 10px solid #6d3f30;
+ }
+ 
+ .inside-box{
+     color: #506d80;
+     background-color: rgb(133, 238, 255);
+     box-sizing: border-box;
+ 
+ }
